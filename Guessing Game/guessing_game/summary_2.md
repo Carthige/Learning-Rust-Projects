@@ -14,3 +14,7 @@ Cargo update to update all your dependencies to the latest version.
 
 You can look at the crate documentation, which contains all its methods, functions and traits of the create. The command is:
 cargo doc --open
+
+Next to new cargo commands, we learned that a function always returns a value (num), which is "Ok" if the returned value is good, or en Err object which contains the type of error. 
+
+Match statements are constructed by taking a variable and comparing it to all elements in the tree structure and executing the lines of code for which a match was found. 
