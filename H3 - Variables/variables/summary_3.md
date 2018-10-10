@@ -36,3 +36,21 @@ let y = {
     };
 
 Note that the line x + 1 has no semi-colon therefore this value is returned to the newly created variable y. 
+
+Control flow:
+if statements:
+- if loops are used by using the if expression.
+- unlike match explessions if statements stop checking other clauses en run the code behind the first statement that yield true.
+- if statements need an expression that returns a boolean.
+- An if statement can be used to assign a variable to a let statment. Still only one variable type can be cast to the let variable from the if statement.
+
+loop loops:
+- loop will continuesly execute the code inside the loop until the code breaks, is broken out of or is forced to stop manually.
+
+While loops:
+- While loops are used as normal while loops in other languages.
+
+for loops:
+- forl loops take an iterator as argument. This can be given to the loop in two ways.
+- for element in a.iter() {} will run the code for every element in the vector a.
+- for number in (1..4) {} will run the code for 3 times changing the variable number from 1,2 to 3. 
