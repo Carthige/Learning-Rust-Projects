@@ -21,4 +21,18 @@ Compound types can group multiple values into one type. Rust has two primitive c
 
 - arrays are made using square braces []
 - arrays are accesed using the square brackets [0]
-- 
+
+Functions:
+- All functions can be called appon anywhere in the file if the are defined in that file. The order in which the functions are defined do not matter.( the scope still does )
+- input variables are defined at the start of the function. When the are defined so is there type. 
+- Return statements are defined at the begin of a function ( after the input is defined ). 
+
+Statements do not return values. Therefore, you can’t assign a let statement to another variable. So you cannot assaign another variable to another variable when they are just created.
+A scope always returns something. You can use a state to return a variable as in:
+
+let y = {
+        let x = 3;
+        x + 1
+    };
+
+Note that the line x + 1 has no semi-colon therefore this value is returned to the newly created variable y. 

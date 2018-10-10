@@ -12,6 +12,18 @@ fn main() {
     let spaces = spaces.len();
     println!("{}",spaces );
 
-    let guess: u32 = "43".parse().expect("Not a number!");
+    let _guess: u32 = "43".parse().expect("Not a number!");
+
+    let x = five();
+    let _y = plus_one(x);
+
+
 }
 
+fn plus_one(x: i32) -> i32 {
+    x + 1
+}
+
+fn five() -> i32 {
+    5
+    }
