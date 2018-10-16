@@ -22,6 +22,7 @@ fn main() {
     println!("40 degree fahrenheit is {} degrees celsius",x );
 
     let _x = fibonacci_number(20);
+     
 }
 
 fn plus_one(x: i32) -> i32 {
