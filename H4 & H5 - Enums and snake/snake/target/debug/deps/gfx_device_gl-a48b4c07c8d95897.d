@@ -1,0 +1,11 @@
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\H4 & H5 - Enums and snake\snake\target\debug\deps\gfx_device_gl-a48b4c07c8d95897.rmeta: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\command.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\factory.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\info.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\shade.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\state.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\tex.rs
+
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\H4 & H5 - Enums and snake\snake\target\debug\deps\gfx_device_gl-a48b4c07c8d95897.d: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\command.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\factory.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\info.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\shade.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\state.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\tex.rs
+
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\lib.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\command.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\factory.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\info.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\shade.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\state.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.15.3\src\tex.rs:

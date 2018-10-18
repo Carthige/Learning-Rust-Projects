@@ -71,7 +71,7 @@ impl Snake {
         (head_block.x, head_block.y)
     }
 
-    pub fn move_forward(&mut self, dir: Option<Direction) {
+    pub fn move_forward(&mut self, dir: Option<Direction>) {
         match dir {
             Some(d) => self.direction =d,
             None => (),
@@ -80,23 +80,24 @@ impl Snake {
         let (last_x, last_y): (i32, i32) = self.head_position();
 
         let new_block = match self.direction {
-            Direction::Up = Block {
+            Direction::Up => Block {
                 x: last_x,
                 y: last_y - 1,
             },
-            Direction::Down = Block {
+            Direction::Down => Block {
                 x: last_x,
                 y: last_y + 1,
             },
-            Direction::Left = Block {
+            Direction::Left => Block {
                 x: last_x - 1,
                 y: last_y,
             },
-            Direction::Right = Block {
+            Direction::Right => Block {
                 x: last_x + 1,
                 y: last_y ,
             },
         };
+
         self.body.push_front(new_block);
         let removed_block = self.body.pop_back().unwrap();
         self.tail = Some(removed_block);
@@ -125,11 +126,11 @@ impl Snake {
     }
 
     pub fn restore_tail(&mut self) {
-        let blk = self.taiil.clone(),unwrap();
+        let blk = self.tail.clone().unwrap();
         self.body.push_back(blk);
     }
 
-    pub fn overlap_tail(&self, x: i32, y:32) -> bool {
+    pub fn overlap_tail(&self, x: i32, y:i32) -> bool {
         let mut ch =0;
         for block in &self.body {
             if x == block.x && y == block.y {
