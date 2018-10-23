@@ -1,0 +1,6 @@
+[package]
+name = "ip_sniffer"
+version = "0.1.0"
+authors = ["Some-dude-a-long-time-ago <43387168+Some-dude-a-long-time-ago@users.noreply.github.com>"]
+
+[dependencies]
