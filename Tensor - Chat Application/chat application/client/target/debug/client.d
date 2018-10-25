@@ -1,0 +1,1 @@
+E:\Projects\Ghit-Hub\Rust\ Tutorials\Learning-Rust-Projects\Tensor\ -\ Chat\ Application\chat\ application\client\target\debug\client.pdb: E:\Projects\Ghit-Hub\Rust\ Tutorials\Learning-Rust-Projects\Tensor\ -\ Chat\ Application\chat\ application\client\src\main.rs
