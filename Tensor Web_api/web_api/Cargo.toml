@@ -1,0 +1,13 @@
+[package]
+name = "web_api"
+version = "0.1.0"
+authors = ["Some-dude-a-long-time-ago <43387168+Some-dude-a-long-time-ago@users.noreply.github.com>"]
+
+[dependencies]
+iron = "*"
+router = "*"
+logger = "*"
+env_logger = "*"
+rustc-serialize = "*"
+chrono = {version = "*", features =["rustc-serialize"]}
+uuid = { version  = "*", features =["v4", "rustc-serialize"]}

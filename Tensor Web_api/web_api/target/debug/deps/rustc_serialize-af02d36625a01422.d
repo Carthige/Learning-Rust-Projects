@@ -1,0 +1,10 @@
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\Tensor Web_api\web_api\target\debug\deps\librustc_serialize-af02d36625a01422.rlib: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\serialize.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\collection_impls.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\base64.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\hex.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\json.rs
+
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\Tensor Web_api\web_api\target\debug\deps\rustc_serialize-af02d36625a01422.d: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\serialize.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\collection_impls.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\base64.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\hex.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\json.rs
+
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\lib.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\serialize.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\collection_impls.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\base64.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\hex.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-serialize-0.3.24\src\json.rs:

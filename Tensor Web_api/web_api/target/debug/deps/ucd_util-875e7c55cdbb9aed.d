@@ -1,0 +1,11 @@
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\Tensor Web_api\web_api\target\debug\deps\libucd_util-875e7c55cdbb9aed.rlib: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\hangul.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\ideograph.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\name.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\property.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\unicode_tables\mod.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\unicode_tables\jamo_short_name.rs
+
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\Tensor Web_api\web_api\target\debug\deps\ucd_util-875e7c55cdbb9aed.d: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\hangul.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\ideograph.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\name.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\property.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\unicode_tables\mod.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\unicode_tables\jamo_short_name.rs
+
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\lib.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\hangul.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\ideograph.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\name.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\property.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\unicode_tables\mod.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.2\src\unicode_tables\jamo_short_name.rs:

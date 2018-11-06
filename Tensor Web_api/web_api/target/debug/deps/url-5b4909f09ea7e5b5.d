@@ -1,0 +1,13 @@
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\Tensor Web_api\web_api\target\debug\deps\liburl-5b4909f09ea7e5b5.rlib: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\encoding.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\host.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\origin.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\path_segments.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\parser.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\slicing.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\form_urlencoded.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\quirks.rs
+
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\Tensor Web_api\web_api\target\debug\deps\url-5b4909f09ea7e5b5.d: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\encoding.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\host.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\origin.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\path_segments.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\parser.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\slicing.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\form_urlencoded.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\quirks.rs
+
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\lib.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\encoding.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\host.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\origin.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\path_segments.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\parser.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\slicing.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\form_urlencoded.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\url-1.7.1\src\quirks.rs:

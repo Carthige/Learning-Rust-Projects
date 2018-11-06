@@ -1,0 +1,12 @@
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\Tensor Web_api\web_api\target\debug\deps\libmemchr-0b8385f873fcdda1.rlib: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\c.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\fallback.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\iter.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\naive.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\x86\mod.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\x86\avx.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\x86\sse2.rs
+
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\Tensor Web_api\web_api\target\debug\deps\memchr-0b8385f873fcdda1.d: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\c.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\fallback.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\iter.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\naive.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\x86\mod.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\x86\avx.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\x86\sse2.rs
+
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\lib.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\c.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\fallback.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\iter.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\naive.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\x86\mod.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\x86\avx.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.1.1\src\x86\sse2.rs:
