@@ -1,6 +1,7 @@
 use chrono::datetime::DateTime;
 use chrono::offset::utc::UTC;
-use uuid::UUid;
+use uuid::Uuid;
+
 
 #[derive(Clone, Debug, RustcEncodable, RustcDecodable)]
 pub struct Post {
@@ -11,12 +12,8 @@ pub struct Post {
     uuid: Uuid,
 }
 
-impl  Post {
-    pub fn new( title: &str,
-    body: &str,
-    author: &str,
-    datetime: DateTime<UTC>,
-    uuid: Uuid) -> Post {
+impl Post {
+    pub fn new(title: &str, body: &str, author: &str, datetime: DateTime<UTC>, uuid: Uuid) -> Post {
         Post {
             title: title.to_string(),
             body: body.to_string(),
@@ -25,10 +22,8 @@ impl  Post {
             uuid,
         }
     }
-    
+
     pub fn uuid(&self) -> &Uuid {
         &self.uuid
     }
-
-    
 }
