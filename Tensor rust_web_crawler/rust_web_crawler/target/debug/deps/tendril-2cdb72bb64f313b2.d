@@ -1,0 +1,11 @@
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\Tensor rust_web_crawler\rust_web_crawler\target\debug\deps\libtendril-2cdb72bb64f313b2.rlib: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\fmt.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\stream.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\util.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\buf32.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\tendril.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\utf8_decode.rs
+
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\Tensor rust_web_crawler\rust_web_crawler\target\debug\deps\tendril-2cdb72bb64f313b2.d: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\fmt.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\stream.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\util.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\buf32.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\tendril.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\utf8_decode.rs
+
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\lib.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\fmt.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\stream.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\util.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\buf32.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\tendril.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.0\src\utf8_decode.rs:

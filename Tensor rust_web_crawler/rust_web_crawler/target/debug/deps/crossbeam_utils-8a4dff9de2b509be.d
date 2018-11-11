@@ -1,0 +1,10 @@
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\Tensor rust_web_crawler\rust_web_crawler\target\debug\deps\libcrossbeam_utils-8a4dff9de2b509be.rlib: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\atomic\mod.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\atomic\consume.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\cache_padded.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\thread.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\thread.rs
+
+E:\Projects\Ghit-Hub\Rust Tutorials\Learning-Rust-Projects\Tensor rust_web_crawler\rust_web_crawler\target\debug\deps\crossbeam_utils-8a4dff9de2b509be.d: C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\lib.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\atomic\mod.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\atomic\consume.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\cache_padded.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\thread.rs C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\thread.rs
+
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\lib.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\atomic\mod.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\atomic\consume.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\cache_padded.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\thread.rs:
+C:\Users\niels\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.6.0\src\thread.rs:
